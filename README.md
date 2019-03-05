@@ -1,10 +1,10 @@
 # CropInputsIran
-Inputs of several crops in Iran including hours of labor and machinery, kilograms of fertilizer (N, P &amp; K), water, seed and electricity are assembled in a spreadsheet.
+Inputs of several crops in Iran including hours of labor and machinery, kilograms of fertilizer (N, P &amp; K), water, seed and electricity are assembled in a spreadsheet. <br />
 
-The spreadsheet can be accessed from the following link (Google Sheets):
+The spreadsheet can be accessed from the following link (Google Sheets): <br />
 https://docs.google.com/spreadsheets/d/113_zeFj4XUmm5EJiziWmHnTAV-1jjwRrnPS9YHpHWZk/edit#gid=0
 
-The references used for energy inputs of the plants:
+The references used for energy inputs of the plants: <br />
 
 [1] Mousavi-Avval, S. H., Rafiee, S., & Mohammadi, A. (2011). Optimization of energy consumption and input costs for apple production in Iran using data envelopment analysis. Energy, 36(2), 909-916. <br />
 [2] Taghavifar, H., & Mardani, A. (2015). Prognostication of energy consumption and greenhouse gas (GHG) emissions analysis of apple production in West Azarbayjan of Iran using Artificial Neural Network. Journal of Cleaner Production, 87, 159-167. <br />
